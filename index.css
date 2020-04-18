@@ -1,0 +1,115 @@
+body,
+html{
+	margin:  0; 
+	padding: 0;
+	font-size:18px;
+}
+body{
+	background-size:100%;
+	background-attachment:fixed;
+}
+a, a img{
+	color:#000;
+	text-decoration:none;
+	border:none;
+}
+
+img{
+	max-width:100%;
+	height:auto;
+}
+.principal{
+	width: 960px;
+	color: #000;
+	margin: 0 auto;
+	font-family:"Comic Sans MS";
+	margin-bottom: 0px;
+}
+.saibamais{
+	border: 60px solid rgb(228, 43, 43);
+	width:90%;
+	font-style: "Comic Sans MS";
+	color: rgb(106, 101, 101);
+}
+.cabecalho{
+	height:100px;
+	color:#000;
+	margin-left: 360px;
+}
+.logo-cabecalho {
+	float:left;
+	font-size:50px;
+	font-style:"Comic Sans MS";
+	color:#000;
+	padding:20px 0 0 0;
+
+}
+.noticiasrapidas{
+	position:center;
+	overflow:hidden;
+	text-decoration-color: #000;
+	font-style: "Comic Sans MS";
+	text-align:center;
+	image-orientation: center;
+}
+.img01{
+	width: 50%;
+
+}
+.home{
+	border: 60px solid rgb(228, 43, 43);
+	width: 930px;
+	overflow:hidden;
+	text-decoration-color: #000;
+	font-style: "Comic Sans MS";
+	text-align:center;
+	color: #000;
+	margin: 0 auto;
+}
+.menu{
+	background-color: rgb(228, 43, 43);
+	text-align:center;
+	color:#000;
+	overflow:hidden;
+	font-family:"Comic Sans MS";
+	width: 960px;
+	text-decoration: unset;
+	display:flex;
+	justify-content: space-between;
+	margin-bottom: 90px;
+}
+.sobre1{
+	border: 100px solid rgb(228, 43, 43);
+	width: 50%;
+	overflow:hidden;
+	text-decoration-color: blue;
+	font-style: "Comic Sans MS";
+	text-align:center;
+	color: #000;
+	margin: 0 auto;
+}
+.contato{
+	border: 200px solid rgb(228, 43, 43);
+	position:center;
+	overflow:hidden;
+	text-decoration-color: #000;
+	font-style: "Comic Sans MS";
+	text-align:center;
+	image-orientation: center;
+}
+.email{
+	font-style:"Comic Sans MS";
+	padding:10px;
+	text-align:center;
+}
+.rodape{
+	background-color: rgba(155, 122, 122, 0.378);
+	font-style:"Comic Sans MS";
+	padding:10px;
+	text-align:center;
+	color:#000;
+	font-size: 15px;
+	
+	font-weight: 700;
+}
+
